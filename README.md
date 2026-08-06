@@ -58,17 +58,6 @@ Após receberem uma atualização:
 
 ---
 
-## Tecnologias Utilizadas
-
-- **ESP32**
-- **Bluetooth Low Energy (BLE)**
-- **BLE GATT (Generic Attribute Profile)**
-- **MIT App Inventor**
-- **Arduino IDE**
-- **Comunicação por notificações BLE**
-
----
-
 ## Características BLE Utilizadas
 
 ### GATT Server
