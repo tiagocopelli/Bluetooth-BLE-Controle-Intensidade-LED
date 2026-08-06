@@ -1,4 +1,4 @@
-# Projeto BLE - Comunicação entre ESP32 Server, Clientes e Aplicativo Mobile
+# Projeto BLE - Comunicação entre ESP32 Server, Clientes e App
 
 ## Descrição
 
