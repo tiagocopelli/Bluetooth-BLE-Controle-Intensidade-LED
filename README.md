@@ -78,30 +78,6 @@ Os ESP32 Clientes funcionam como **GATT Clients**, realizando:
 
 ---
 
-## Objetivos do Projeto
-
-- Estudar a comunicação BLE utilizando ESP32.
-- Implementar uma arquitetura cliente-servidor BLE.
-- Desenvolver comunicação entre múltiplos dispositivos.
-- Avaliar aplicações do BLE em redes de sensores e IoT.
-
----
-
-## Possíveis Aplicações
-
-- Redes de sensores sem fio.
-- Automação residencial.
-- Controle de dispositivos IoT.
-- Sistemas distribuídos de baixo consumo energético.
-
----
 ## Link de Demonstração
 https://drive.google.com/file/d/1il9exlfnf6xMrlCVtNwRmsO19vnYo_nK/view?usp=drive_link 
 ---
-
-## Autor
-
-Tiago Lauriano Copelli
-
-Projeto desenvolvido para estudo de redes Bluetooth Low Energy utilizando ESP32.
-
